@@ -1,5 +1,4 @@
-
-What is Stellar for?
+# What is Stellar for?
 
 The Stellar network launched in 2014. Since then it’s processed more than 2 billion operations made by over 6.5 million individual accounts. Large enterprise companies and companies as small as single-dev startups have chosen Stellar to move money and access new markets.
 
